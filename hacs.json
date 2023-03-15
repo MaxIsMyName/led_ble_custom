@@ -1,0 +1,5 @@
+{
+    "name": "LED BLE Custom",
+    "iot_class": "Local Polling",
+    "render_readme": false
+}
